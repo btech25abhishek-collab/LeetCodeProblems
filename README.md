@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [0769-max-chunks-to-make-sorted](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0769-max-chunks-to-make-sorted) |
+| [0835-image-overlap](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0835-image-overlap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0769-max-chunks-to-make-sorted) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
