@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [1138-alphabet-board-path](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1138-alphabet-board-path) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [1138-alphabet-board-path](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1138-alphabet-board-path) |
 ## Sorting
 |  |
 | ------- |
