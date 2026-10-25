@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0769-max-chunks-to-make-sorted](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0825-friends-of-appropriate-ages](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0825-friends-of-appropriate-ages) |
 | [0835-image-overlap](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0835-image-overlap) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0825-friends-of-appropriate-ages](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0825-friends-of-appropriate-ages) |
 ## Sliding Window
 |  |
