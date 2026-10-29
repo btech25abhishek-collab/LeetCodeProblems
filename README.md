@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0216-combination-sum-iii) |
 | [0611-valid-triangle-number](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0835-image-overlap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
