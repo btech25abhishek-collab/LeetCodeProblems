@@ -152,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0357-count-numbers-with-unique-digits) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
