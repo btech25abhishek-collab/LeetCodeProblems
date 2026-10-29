@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0216-combination-sum-iii) |
 | [0611-valid-triangle-number](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0611-valid-triangle-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0520-detect-capital) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0216-combination-sum-iii) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0835-image-overlap) |
 ## Bit Manipulation
 |  |
@@ -138,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1079-letter-tile-possibilities](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1079-letter-tile-possibilities) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
