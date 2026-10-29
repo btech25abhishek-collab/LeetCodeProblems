@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
+| [0357-count-numbers-with-unique-digits](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0357-count-numbers-with-unique-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0216-combination-sum-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0357-count-numbers-with-unique-digits) |
 | [1079-letter-tile-possibilities](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1079-letter-tile-possibilities) |
 ## Bracket Sequences
 |  |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0079-word-search) |
+## Math
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
