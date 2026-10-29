@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
