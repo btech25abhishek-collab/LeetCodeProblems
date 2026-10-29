@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0078-subsets) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0763-partition-labels](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0763-partition-labels) |
 | [0916-word-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0916-word-subsets) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0078-subsets) |
@@ -113,10 +116,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0037-sudoku-solver) |
 | [0835-image-overlap](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0835-image-overlap) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
