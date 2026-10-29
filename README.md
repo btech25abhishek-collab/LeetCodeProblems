@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0520-detect-capital) |
 | [0763-partition-labels](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0763-partition-labels) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
