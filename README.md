@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0763-partition-labels](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0763-partition-labels) |
 | [0916-word-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0916-word-subsets) |
 | [0966-vowel-spellchecker](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0966-vowel-spellchecker) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0520-detect-capital) |
 | [0763-partition-labels](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0763-partition-labels) |
 | [0916-word-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0916-word-subsets) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [1079-letter-tile-possibilities](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1079-letter-tile-possibilities) |
 ## Depth-First Search
 |  |
