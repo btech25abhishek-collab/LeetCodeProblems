@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0583-delete-operation-for-two-strings](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0583-delete-operation-for-two-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0520-detect-capital) |
+| [0583-delete-operation-for-two-strings](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0763-partition-labels](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0763-partition-labels) |
 | [0916-word-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0916-word-subsets) |
 | [0925-long-pressed-name](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0925-long-pressed-name) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1291-sequential-digits) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
