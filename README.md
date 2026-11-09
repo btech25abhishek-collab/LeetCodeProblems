@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0825-friends-of-appropriate-ages) |
 | [0835-image-overlap](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0835-image-overlap) |
 | [0916-word-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0916-word-subsets) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0966-vowel-spellchecker](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0966-vowel-spellchecker) |
 ## Divide and Conquer
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0611-valid-triangle-number) |
 | [0769-max-chunks-to-make-sorted](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0825-friends-of-appropriate-ages](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0825-friends-of-appropriate-ages) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0583-delete-operation-for-two-strings) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0950-reveal-cards-in-increasing-order) |
+## Simulation
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
