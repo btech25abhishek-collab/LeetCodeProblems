@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0216-combination-sum-iii) |
 | [0611-valid-triangle-number](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0611-valid-triangle-number) |
+| [0682-baseball-game](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0769-max-chunks-to-make-sorted](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0769-max-chunks-to-make-sorted) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0769-max-chunks-to-make-sorted) |
 ## Monotonic Stack
 |  |
@@ -182,5 +184,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
