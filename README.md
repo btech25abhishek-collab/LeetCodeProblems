@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0763-partition-labels](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0763-partition-labels) |
+| [0791-custom-sort-string](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0791-custom-sort-string) |
 | [0916-word-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0916-word-subsets) |
 | [0966-vowel-spellchecker](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0966-vowel-spellchecker) |
 | [1079-letter-tile-possibilities](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1079-letter-tile-possibilities) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0763-partition-labels](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0763-partition-labels) |
+| [0791-custom-sort-string](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0791-custom-sort-string) |
 | [0916-word-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0916-word-subsets) |
 | [0925-long-pressed-name](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0925-long-pressed-name) |
 | [0966-vowel-spellchecker](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0966-vowel-spellchecker) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0611-valid-triangle-number) |
 | [0769-max-chunks-to-make-sorted](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0769-max-chunks-to-make-sorted) |
+| [0791-custom-sort-string](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0791-custom-sort-string) |
 | [0825-friends-of-appropriate-ages](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0825-friends-of-appropriate-ages) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Binary Search
