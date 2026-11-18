@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-vowel-spellchecker](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0966-vowel-spellchecker) |
 | [1079-letter-tile-possibilities](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1079-letter-tile-possibilities) |
 | [1138-alphabet-board-path](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1138-alphabet-board-path) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-vowel-spellchecker](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0966-vowel-spellchecker) |
 | [1079-letter-tile-possibilities](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1079-letter-tile-possibilities) |
 | [1138-alphabet-board-path](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1138-alphabet-board-path) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [1079-letter-tile-possibilities](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1079-letter-tile-possibilities) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
