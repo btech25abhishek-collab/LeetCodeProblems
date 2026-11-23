@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0763-partition-labels](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0791-custom-sort-string) |
+| [0880-decoded-string-at-index](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0880-decoded-string-at-index) |
 | [0916-word-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0916-word-subsets) |
 | [0925-long-pressed-name](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0925-long-pressed-name) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0769-max-chunks-to-make-sorted) |
+| [0880-decoded-string-at-index](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0880-decoded-string-at-index) |
 ## Monotonic Stack
 |  |
 | ------- |
