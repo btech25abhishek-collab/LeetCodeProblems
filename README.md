@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0611-valid-triangle-number](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0763-partition-labels) |
 | [0825-friends-of-appropriate-ages](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0825-friends-of-appropriate-ages) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0037-sudoku-solver) |
+| [0160-intersection-of-two-linked-lists](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0763-partition-labels](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0763-partition-labels) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0950-reveal-cards-in-increasing-order) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
