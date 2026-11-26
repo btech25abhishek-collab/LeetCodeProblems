@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0880-decoded-string-at-index](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0880-decoded-string-at-index) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -205,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
