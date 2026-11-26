@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0216-combination-sum-iii) |
 | [0611-valid-triangle-number](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0682-baseball-game) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0880-decoded-string-at-index](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0880-decoded-string-at-index) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0357-count-numbers-with-unique-digits](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0357-count-numbers-with-unique-digits) |
 ## Enumeration
 |  |
