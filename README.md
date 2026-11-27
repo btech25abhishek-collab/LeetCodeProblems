@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0925-long-pressed-name) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0966-vowel-spellchecker](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0966-vowel-spellchecker) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1079-letter-tile-possibilities](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1079-letter-tile-possibilities) |
 | [1138-alphabet-board-path](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1138-alphabet-board-path) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0880-decoded-string-at-index](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0880-decoded-string-at-index) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
