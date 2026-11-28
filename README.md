@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0173-binary-search-tree-iterator) |
 | [0682-baseball-game](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0880-decoded-string-at-index](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0880-decoded-string-at-index) |
@@ -217,12 +218,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0173-binary-search-tree-iterator) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0021-merge-two-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/btech25abhishek-collab/LeetCodeProblems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
